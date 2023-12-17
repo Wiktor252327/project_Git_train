@@ -9,6 +9,7 @@ int Policz(int a, int b){
 
 int main() {
     cout << "Hello, World!" << std::endl;
+    cout << "Hello, World2!" << std::endl;
     cout << "W pierwszym branchu; 2+3=" << Policz(2,3) << std::endl;
 
 
